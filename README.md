@@ -1,1 +1,1 @@
-# 2_Academic_MachineLearning
+Experienced data researching and processing, utilized decision tree regression learning algorithm to train the data, implemented a predictor user graphical interface in Python, and presented in class.

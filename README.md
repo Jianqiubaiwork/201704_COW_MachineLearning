@@ -1,1 +1,2 @@
-Experienced data researching and processing, utilized decision tree regression learning algorithm to train the data, implemented a predictor user graphical interface in Python, and presented in class.
+- Implemented a GUI tool in Python to help users predict the price of second-used cars.
+- Processed data and trained the data by the decision tree regression learning algorithm in Python to make predictions.
